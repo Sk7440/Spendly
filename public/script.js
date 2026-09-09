@@ -53,7 +53,8 @@ form.addEventListener("submit", (e) => {
     arr[editingIndex].description = description.value;
     arr[editingIndex].category = category.value;
     arr[editingIndex].date = date.value;
-    arr[editingIndex].amount = amount.value;
+    arr[editingIndex].amount =  Number( amount.value);
+    arr[editingIndex].type = select.value;
     localStorage.setItem("array", JSON.stringify(arr));
     editingIndex = null;
     render();
