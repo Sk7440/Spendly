@@ -2,9 +2,7 @@ Contributions are welcome! If you'd like to improve Spendly:
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the BranchAapke project **Spendly** (Financial Tracker Dashboard) ke liye ek complete README markdown ka draft niche diya gaya hai. Is text ko copy karke apni GitHub repository ki `README.md` file mein save kar lein.
-
-
+   
  Spendly — Modern Personal Finance Dashboard
 
 Spendly is a modern, responsive personal finance dashboard designed to help users track income, manage expenses, and maintain financial clarity through clean analytics and real-time updates.
